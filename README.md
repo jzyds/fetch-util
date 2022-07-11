@@ -1,9 +1,9 @@
-# fetch-util
+# @xqli/net-util
 
 ```bash
-npm install git@github.com:jzyds/fetch-util.git
+npm install @xqli/net-util
 ```
 
 ```
-import { get } from "fetch-util";
+import { get } from "@xqli/net-util";
 ```
