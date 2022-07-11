@@ -23,5 +23,5 @@ EOF
 git add .
 git commit -m ${version}
 echo ${version};
-npm publish
+npm publish --access=public
 git push origin main
